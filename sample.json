@@ -1,0 +1,33 @@
+{
+  "device_id": "device_001",
+  "datetime": "2026-05-03 12:00:00",
+  "latitude": 55.70329032,
+  "longitude": 37.65472196,
+  "altitude": 427.5,
+  "speed": 0,
+  "battery_voltage": 23.5,
+  "cabin_temperature": 17,
+  "fuel_level": 80
+}
+{
+  "device_id": "device_002",
+  "datetime": "2026-05-03 12:05:00",
+  "latitude": 55.71294467,
+  "longitude": 37.66542005,
+  "altitude": 429.13,
+  "speed": 55.5,
+  "battery_voltage": 22.8,
+  "cabin_temperature": 18,
+  "fuel_level": 32
+}
+{
+  "device_id": "device_003",
+  "datetime": "2026-05-03 12:10:00",
+  "latitude": 55.70985913,
+  "longitude": 37.62141918,
+  "altitude": 417.0,
+  "speed": 15.7,
+  "battery_voltage": 21.3,
+  "cabin_temperature": 19,
+  "fuel_level": 60
+}
